@@ -14,8 +14,8 @@ Este projeto foi desenvolvido como requisito para composição de nota.
 
 ## 🛠️ Detalhes
 
-* **Objetivo:** Explorar e validar estatisticamente a relação entre os dados de detenções policiais no Arizona e a prevalência de indicadores de Ansiedade e Depressão na região.*
-* **Metodologia:** *O projeto aplicou as três áreas da Estatística em rotinas de código Python, utilizando as bases de dados provindas de dados abertos do governo estadunidense[data.gov] de prisões (POLTRA_25.csv) e indicadores de saúde (indica.csv) sobretudo do estado do Arizona.*
+* **Objetivo:** *Explorar e validar estatisticamente a relação entre os dados de detenções policiais no Arizona e a prevalência de indicadores de Ansiedade e Depressão na região.*
+* **Metodologia:** *O projeto aplicou as três áreas da Estatística em rotinas de código Python, utilizando as bases de dados provindas de dados abertos do [governo estadunidense](data.gov) de prisões (POLTRA_25.csv) e indicadores de saúde (indica.csv) sobretudo do estado do Arizona.*
 * **Tecnologias:** *Desenvolvimento colaborativo utilizando Google Notebooks e sua integração com Python, juntamente com a biblioteca Pandas e SciPi.*
 
 ---
